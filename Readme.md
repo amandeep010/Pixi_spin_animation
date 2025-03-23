@@ -1,22 +1,23 @@
 Its a pixiJs v8 learning design 
 
 1) We have a glass in center which show animations based on button clicked.
-2) we have 4 buttons for animations and one loop button which will show animation based on if loop is clicked or not  
+2) we have 4 buttons for animations and one loop button which will show </br>animation based on if loop is clicked/true or not 
 
-3) 4 buttons are there named :
-destroy,
-static,
-land,
+3) 4 buttons are there named : </br>
+destroy,</br>
+static,</br>
+land,</br>
 match 
 
-used elements :
-Text(for button)
-and
-Spine(for animation json)
+4) used elements : </br>
+Text(for button)</br>
+and</br>
+Spine(for animation json)</br></br>
 
-4) 1 background image json is there for background animation.
+1 background image json is there for background animation.
 
-To run project we need to install packages 
+5) To run project we need to install packages</br> 
 
-npm install
+npm install</br>
+ </br>
 npm run dev
