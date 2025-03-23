@@ -16,7 +16,7 @@ Spine(for animation json)</br></br>
 
 1 background image json is there for background animation.
 
-5) To run project we need to install packages</br> 
+5) To run project we need to install packages and run it.</br> 
 
 npm install</br>
  </br>
